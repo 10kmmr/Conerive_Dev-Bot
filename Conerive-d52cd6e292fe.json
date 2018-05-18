@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "roadtrip-app-efa3a",
+  "private_key_id": "d52cd6e292fe0a9a0376bdb815f879a2bf6d1ec4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC2yEICS3QeTBsL\nVrxjtc32H0wSopLIJmkDoTJ2aricMkZrzJ85Wnx+RqMJYLyD8PX7czQZQuSC+Ecc\n/597ycic5RLbLOszuV385lA5XKliqI4uW4Us9Q63ArdvijkoLUfaGPYW4mxrF5iR\nSztlVyGaAKQo49jOPMisC/sTHuDwW+KfouW+lJyoMq3jAOXKhd7PLazCM6bsEpkv\nU3xUFf+tXQIQLGDqzOZ0ja+gqK6llJ8NhJ9kRaxt4Zh+IIEc0LUqD4RnkrRnO9DF\nKfxnV+ifqOOuWVygg/EpKois984T10vFVbXTJwhgKuigxEKDJQw7czpn4O5/f4iP\nH4ggfAL5AgMBAAECggEAD15mQngistt2WK052O5z+3JlPJnj2qV0JgR7UD6n+CY4\nCp9hcfqcRifdVJAIOdXccQCeTFN2EFcc76DEwa1VS2/tdnVf73DyKK4a57/VVEDU\n96vlVkLislutndjS9oBcLsfzhTgToquQvgLD40EAx8ivBOsnkyvEOccmHNT3V+5V\nicj4Niwq6ESs3YX6cWh764NCfzboygdqgKfSjtslabj1H+R3oXUiITmdGjMfcxew\nWyfg5+G5WmmU4lxy0X5HoXKGwCT+YjTOWcShzQpx95UebfmUG0GgV2G664jrO77W\nQ71txQoqiRbimrIKI7qOpwTr38AhLntwK7usqpoo8wKBgQDfhh/UUzDH7Box6aRQ\nBbz9i2xJ7KLXVkUqlbWkm5oBdjDdWUJqMU5P+ydQ82qtfAIvOD6p22BL/hQeOyiS\n+44mGU3WR43T1ysz8I0zFVG2+YuGk9SXlvxJt05oQo4q5dsK/F1xlxKvITJYkIo1\nPK8W17t+ROoUN76VGDPrInFazwKBgQDRVsPOQneYOlCZC/mQYo4ksmJD8RKKjaPI\nNjr+9+NqoOQMtA10pi3vTl6enCK6PHNESX9IriX2w7TjX2hkyH/yGcj86GYiFKq6\n9Ev4vqbjNJIEHH4fYUyUa5utVHgkh+YvhdSuImRSCIb9fRF6wujILvxhNnPk6efO\nFQUZddyXtwKBgHCV7B5UMLPiVmdhmaO84C6NNWQezv7Ls1b5xV4+CdpGn+I9/Vfj\nseBTTsBVexwa5DbIi7eeieh898EqZwtxrW2/PRd7PxK+xEILHfPm/xu8oeyNNX2N\nTVIMBHA7ZcRxtlzYNHDseTrA68z0MMkT4dUNoKC/MXAxi8spP61l0da9AoGBAL9+\n/ml9NgfkOHx4jtg8v8jkAa4jJhHm1c89hKRewQN2oIbaYoC1z8lcyIORUtdImyz5\nit1CqWndx2hDi6y+GQSv/8MTGPLOMwwIlEK8rM+k9HmcUueDy1juQx/A6JKKWtBY\nPaD5xwmf0VSrh0TkbatKCAcpl8TtD+beJacPwTZrAoGBAMOaO6Zd7gYwop4vF/P5\nY6Pcz0fP0hR88GUR6GYyqM897/FhJa9/innUiyTadLqc4SK7baDQ7b6/Kf44lYM2\nLlo6NaJ3bjSUSS/vhlmuJDZxmCxHCYgubiBcL+bAOPzRZaPOD7VAalQKw1jDeQLA\nR1O9YLp3asbGyHnSx7ay+EZL\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-nxxum@roadtrip-app-efa3a.iam.gserviceaccount.com",
+  "client_id": "114767784611312579864",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-nxxum%40roadtrip-app-efa3a.iam.gserviceaccount.com"
+}
